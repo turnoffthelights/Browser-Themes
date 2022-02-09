@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "homepage_url": "https://www.turnoffthelights.com",
+  "theme": {
+    "colors": {
+      "frame": "white",
+      "tab_background_text": "#000",
+      "toolbar": "white",
+      "toolbar_field": "white",
+      "toolbar_field_text": "black",
+      "toolbar_field_border": "#ccc",
+      "tab_line": "black",
+      "popup": "white",
+      "popup_text": "black",
+      "popup_border": "#ccc",
+      "ntp_background": "white",
+      "ntp_text": "black"
+    }
+  },
+  "name": "Light theme for Firefox",
+  "version": "1.0.2.0",
+  "description": "A light Firefox theme for your web browser. It's simple and coherent.",
+  "author": "Stefan vd",
+  "applications": {
+    "gecko": {
+      "id": "{362e566c-9de2-401f-9fa7-6853f4b69d99}",
+      "strict_min_version": "63.0"
+    }
+  }
+}

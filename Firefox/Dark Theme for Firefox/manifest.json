@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "homepage_url": "https://www.turnoffthelights.com",
+  "theme": {
+    "colors": {
+         "frame": "#333333",
+         "tab_background_text": "#fff",
+         "toolbar": "#333333",
+         "toolbar_field": "#333333",
+         "toolbar_field_text": "white",
+         "toolbar_field_border": "#505050",
+         "tab_line": "white",
+         "popup": "#333333",
+         "popup_text": "white",
+         "popup_border": "gray",
+         "ntp_background": "#333333",
+         "ntp_text": "white"
+    }
+  },
+  "name": "Dark theme for Firefox",
+  "version": "1.0.2.0",
+  "description": "A dark Firefox theme for your web browser. It's simple and coherent.",
+  "author": "Stefan vd",
+  "applications": {
+    "gecko": {
+      "id": "{1afaee19-8dde-4b0e-8c84-f46ca0f02f06}",
+      "strict_min_version": "63.0"
+    }
+  }
+}

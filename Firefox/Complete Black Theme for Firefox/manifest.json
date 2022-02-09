@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "homepage_url": "https://www.turnoffthelights.com",
+  "theme": {
+    "colors": {
+         "frame": "black",
+         "tab_background_text": "#fff",
+         "toolbar": "black",
+         "toolbar_field": "black",
+         "toolbar_field_text": "white",
+         "toolbar_field_border": "#505050",
+         "tab_line": "white",
+         "popup": "black",
+         "popup_text": "white",
+         "popup_border": "gray",
+         "ntp_background": "black",
+         "ntp_text": "white"
+    }
+  },
+  "name": "Complete Black Theme for Firefox",
+  "version": "1.0.2.0",
+  "description": "The black theme for Firefox that protect your eyes late at night.",
+  "author": "Stefan vd",
+  "applications": {
+    "gecko": {
+      "id": "{c161a71c-fb42-4608-b001-5634b3f59a8b}",
+      "strict_min_version": "63.0"
+    }
+  }
+}

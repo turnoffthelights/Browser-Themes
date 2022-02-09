@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "homepage_url": "https://www.turnoffthelights.com",
+  "theme": {
+    "colors": {
+         "frame": "white",
+         "tab_background_text": "black",
+         "tab_text": "white",
+         "icons": "white",
+         "button_background_active": "#505050",
+         "button_background_hover": "gray",
+         "toolbar": "black",
+         "toolbar_field": "black",
+         "toolbar_field_text": "white",
+         "toolbar_field_border": "#505050",
+         "tab_line": "white",
+         "popup": "black",
+         "popup_text": "white",
+         "popup_border": "gray",
+         "ntp_background": "black",
+         "ntp_text": "white"
+    }
+  },
+  "name": "Black and White Theme for Firefox",
+  "version": "1.0.2.0",
+  "description": "The best black and white theme for Firefox that simple, clean, beautiful black and doesn't hurt your eyes.",
+  "author": "Stefan vd",
+  "applications": {
+    "gecko": {
+      "id": "{a0604af6-1f14-4b7b-a03e-24c7109b12b5}",
+      "strict_min_version": "63.0"
+    }
+  }
+}
