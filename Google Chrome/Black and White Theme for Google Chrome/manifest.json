@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "theme": {
     "images": {
       "theme_frame": "images/theme_frame.png",
@@ -27,7 +27,7 @@
     }
   },
   "name": "__MSG_name__",
-  "version": "1.0.2.0",
+  "version": "1.0.3.0",
   "description": "__MSG_description__",
   "author": "Stefan vd",
   "default_locale": "en"
