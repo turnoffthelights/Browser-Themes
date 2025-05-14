@@ -1,8 +1,8 @@
 ﻿{
-    "name": {
-       "message": "Dark Theme for Google Chrome"
-    },
-    "description": {
-       "message": "The best dark Chrome theme for your web browser. It's simple and coherent."
-    }
- }
+   "description": {
+       "message": "Det beste mørke Chrome-temaet for nettleseren din. Det er enkelt og sammenhengende."
+   },
+   "name": {
+       "message": "Mørkt tema for Google Chrome"
+   }
+}
