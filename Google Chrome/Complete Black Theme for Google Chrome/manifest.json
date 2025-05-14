@@ -14,9 +14,9 @@
       "bookmark_text": [ 255, 255, 255 ],
       "ntp_background": [ 0, 0, 0 ],
       "ntp_text": [ 255, 255, 255 ],
-      "button_background": [ 79, 79, 79, 0.48 ],
       "omnibox_background": [ 39, 39, 39 ],
-      "omnibox_text": [ 255, 255, 255 ]
+      "omnibox_text": [ 255, 255, 255 ],
+      "control_background": [ 0, 0, 0 ]
     },
     "tints": { "buttons": [ 0, 0, 1 ] },
     "properties": {
@@ -31,7 +31,7 @@
     "128": "icons/icon128.png"
   },
   "name": "__MSG_name__",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "__MSG_description__",
   "author": "Stefan vd",
   "default_locale": "en"
